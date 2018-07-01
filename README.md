@@ -16,7 +16,7 @@ Resets card to auto power management
 # amdgpu-fansspeed
 Author: DominiLux << Thank you for the good work!
 License: Apache Version 2.0
-DominiLux has deprecated this project as it was meant to be an example.  He's currently developing my new project in C++ and will have a release ready soon.  It's name is GPUMAGIC and it is specifically engineered not just for mining but for managing any large compute cluster which uses **AMD** Graphics Cards.  You can get more information on it in my repository GPUMAGIC which is also the future home of the code (currently in testing and debugging)
+DominiLux has deprecated this project as it was meant to be an example.  He's currently developing his new project in C++ and will have a release ready soon.  It's name is GPUMAGIC and it is specifically engineered not just for mining but for managing any large compute cluster which uses **AMD** Graphics Cards.  You can get more information on it in my repository GPUMAGIC which is also the future home of the code (currently in testing and debugging)
 
 ## Installation Instructions:
 * sudo apt-get install git
