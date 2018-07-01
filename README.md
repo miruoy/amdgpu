@@ -5,7 +5,7 @@
 * enable amdgpu for Sea Islands: radeon.cik_support=0 amdgpu.cik_support=1
 * enable amdgpu HDMI/DP audio (kernel >=4.15) : amdgpu.dc=1
 * enable R390 performance fix : amdgpu.dpm=1
-* good read on amdgpu: https://wiki.archlinux.org/index.php/AMDGPU
+* good reads on amdgpu: https://wiki.archlinux.org/index.php/AMDGPU  https://en.wikipedia.org/wiki/Graphics_Core_Next#second
 
 # amdgpu-setclock.sh
 Lets you manually select the clock speed on an amdgpu card. Usefull for those hot running R9's
