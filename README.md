@@ -35,3 +35,7 @@ DominiLux has deprecated this project as it was meant to be an example.  He's cu
 
 ## Usage:
 sudo ./amdgpu-fanspeed.sh -s [speed 0 - 100]
+
+# Additional helpfull tools
+- https://github.com/marazmista/radeon-profile
+- https://github.com/marazmista/radeon-profile-daemon
