@@ -9,7 +9,7 @@
   - radeon.cik_support=0 amdgpu.cik_support=1
 * enable amdgpu HDMI/DP audio (kernel >=4.15) : 
   - amdgpu.dc=1
-* enable R390 performance fix : 
+* enable R9 390 performance fix : 
   - amdgpu.dpm=1
 * good reads on amdgpu: 
   - https://wiki.archlinux.org/index.php/AMDGPU  
