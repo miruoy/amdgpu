@@ -14,6 +14,7 @@
 * good reads on amdgpu: 
   - https://wiki.archlinux.org/index.php/AMDGPU  
   - https://en.wikipedia.org/wiki/Graphics_Core_Next#second
+  - https://jlk.fjfi.cvut.cz/arch/manpages/man/amdgpu.4
 
 # amdgpu-setclock.sh
 Lets you manually select the clock speed on an amdgpu card. Usefull for those hot running R9's
